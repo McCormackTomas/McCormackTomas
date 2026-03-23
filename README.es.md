@@ -22,7 +22,7 @@ Actualmente ampliando mis habilidades en Python y análisis de datos para integr
 
 ## 🌍 Áreas de Interés
 
-- ⛏️ Exploración Minera
+- ⛏️ Exploración minera
 - 💧 Hidrogeología
 - 🛢️ Hidrocarburos
 - 🗺️ Teledetección y Mapeo de Alteraciones
@@ -35,21 +35,21 @@ Actualmente ampliando mis habilidades en Python y análisis de datos para integr
 Mapeo geoespacial de zonas de alteración hidrotermal utilizando QGIS.
 Relevante para exploración mineral y targeting.
 
-> *Próximamente más proyectos mientras continúo construyendo mi portfolio de Python + geociencias.*
+> *Próximamente más proyectos mientras continúo construyendo mi portfolio de Python + geologia.*
 
 ---
 
 ## 🎓 Educación
 
 **Licenciado en Geología**
-Universidad Nacional de La Plata (UNLP) — 2024
+Universidad Nacional de La Plata (UNLP) — 2025
 
 ---
 
 ## 🌐 Idiomas
 
 - 🇦🇷 Español — Nativo
-- 🇺🇸 Inglés — Intermedio-Avanzado
+- 🇺🇸 Inglés — Intermedio-Avanzado (B2)
 
 ---
 
@@ -60,3 +60,6 @@ Universidad Nacional de La Plata (UNLP) — 2024
 ---
 
 *Siempre en búsqueda de oportunidades en minería, hidrogeología e hidrocarburos — disponible para relocalizarme en Argentina e internacionalmente.*
+
+🇺🇸 [English Version](./README.md)
+

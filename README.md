@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Tomás Mc Cormack 👋
+### Geologist | Data Analyst | GIS Specialist
 
-<!--
-**McCormackTomas/McCormackTomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geologist graduated from the **Universidad Nacional de La Plata (UNLP)**, Argentina. Passionate about applying data analysis and geospatial tools to mining exploration, hydrogeology, and hydrocarbons.
 
-Here are some ideas to get you started:
+Currently expanding my skills in Python and data analytics to bridge the gap between geoscience and data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tools & Technologies
+
+**Geospatial**
+- QGIS | ArcGIS
+
+**Data & Analytics**
+- Python (pandas, numpy, matplotlib) | SQL | Excel
+
+**Visualization & BI**
+- Power BI | Tableau
+
+---
+
+## 🌍 Areas of Interest
+
+- ⛏️ Mining Exploration
+- 💧 Hydrogeology
+- 🛢️ Hydrocarbons
+- 🗺️ Remote Sensing & Alteration Mapping
+
+---
+
+## 📂 Featured Projects
+
+### 🗺️ Alteration Mapping with QGIS
+Geospatial mapping of hydrothermal alteration zones using QGIS.
+Relevant for mineral exploration and targeting.
+
+> *More projects coming soon as I continue building my Python + geoscience portfolio.*
+
+---
+
+## 🎓 Education
+
+**Licenciado en Geología**
+Universidad Nacional de La Plata (UNLP) — 2024
+
+---
+
+## 🌐 Languages
+
+- 🇦🇷 Spanish — Native
+- 🇺🇸 English — Upper Intermediate
+
+---
+
+## 📫 Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-usuario)
+
+---
+
+*Always looking for opportunities in mining, hydrogeology and hydrocarbons — open to relocate across Argentina and internationally.*

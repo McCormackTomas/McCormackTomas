@@ -1,7 +1,7 @@
 # Hola, soy Tomás Mc Cormack 👋
 ### Geólogo | Analista de Datos | Especialista en SIG
 
-Geólogo egresado de la **Universidad Nacional de La Plata (UNLP)**, Argentina. Apasionado por la aplicación del análisis de datos y herramientas geoespaciales en exploración minera, hidrogeología e hidrocarburos.
+Geólogo egresado de la **Universidad Nacional de La Plata (UNLP)**, Argentina. Tengo un gran interés en la aplicación del análisis de datos y herramientas geoespaciales en exploración minera, hidrogeología e hidrocarburos.
 
 Actualmente ampliando mis habilidades en Python y análisis de datos para integrar las geociencias con la toma de decisiones basada en datos.
 

@@ -56,6 +56,7 @@ Universidad Nacional de La Plata (UNLP) — 2025
 ## 📫 ¡Conectemos!
 
 [LinkedIn](https://www.linkedin.com/in/tomas-mc-cormack/)
+
 ---
 
 *Siempre en búsqueda de oportunidades en minería, hidrogeología e hidrocarburos — disponible para relocalizarme en Argentina e internacionalmente.*

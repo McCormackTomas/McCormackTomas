@@ -1,7 +1,7 @@
 # Hi, I'm Tomás Mc Cormack 👋
 ### Geologist | Data Analyst | GIS Specialist
 
-Geologist graduated from the **Universidad Nacional de La Plata (UNLP)**, Argentina. Passionate about applying data analysis and geospatial tools to mining exploration, hydrogeology, and hydrocarbons.
+Geologist graduated from the **Universidad Nacional de La Plata (UNLP)**, Argentina. Passionate about applying data analysis and geospatial tools to mining exploration, hydrogeology, and O&G industry.
 
 Currently expanding my skills in Python and data analytics to bridge the gap between geoscience and data-driven decision making.
 

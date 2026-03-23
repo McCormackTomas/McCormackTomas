@@ -55,7 +55,7 @@ Universidad Nacional de La Plata (UNLP) — 2024
 
 ## 📫 ¡Conectemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/tomas-mc-cormack/))
 
 ---
 

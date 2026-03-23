@@ -42,7 +42,7 @@ Relevant for mineral exploration and targeting.
 ## 🎓 Education
 
 **Licenciado en Geología**
-Universidad Nacional de La Plata (UNLP) — 2024
+Universidad Nacional de La Plata (UNLP) — 2025
 
 ---
 
@@ -60,3 +60,5 @@ Universidad Nacional de La Plata (UNLP) — 2024
 ---
 
 *Always looking for opportunities in mining, hydrogeology and hydrocarbons — open to relocate across Argentina and internationally.*
+
+🇦🇷 [Versión en Español](./README.es.md)
